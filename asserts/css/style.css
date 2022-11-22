@@ -11,3 +11,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+ol.pokemons li{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: azure;
+}
