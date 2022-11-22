@@ -10,11 +10,21 @@
     list-style-type: none;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-left: -15px;
 }
 
 ol.pokemons li{
 
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: azure;
+    background-color: rgb(99, 189, 99);
+    color: white;
+
+    margin-left: 5px;
+    margin-top: 4px;
+
+    border-radius: 5px;
+    padding-left: 5px;
+
+    height: 100px;
 }
